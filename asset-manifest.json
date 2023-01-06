@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d867d4ea.css",
+    "main.js": "/static/js/main.2ddc3102.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/product.jpeg": "/static/media/product.5db65ca5aa362502d3f3.jpeg",
+    "static/media/academic.jpg": "/static/media/academic.48f29f17a48aa73045a6.jpg",
+    "static/media/app.jpeg": "/static/media/app.7611263da61e99945dbb.jpeg",
+    "static/media/nft.png": "/static/media/nft.99ab690049bb759a2675.png",
+    "static/media/productpage.jpeg": "/static/media/productpage.b62cadbd6603200ef284.jpeg",
+    "static/media/error.jpeg": "/static/media/error.c8c2c16f4729088e3745.jpeg",
+    "static/media/kishor.jpeg": "/static/media/kishor.5dd1977aaa61367d4949.jpeg",
+    "static/media/home.jpeg": "/static/media/home.2ecb747479fbaf830fe2.jpeg",
+    "static/media/haq.jpg": "/static/media/haq.86149d1b4f809171af2a.jpg",
+    "static/media/team.jpg": "/static/media/team.9a329f66fabd3cd8bd25.jpg",
+    "static/media/token.png": "/static/media/token.cffee8a4d7f0d127fcfd.png",
+    "static/media/recruit.png": "/static/media/recruit.6b14626c39250f453332.png",
+    "static/media/service.jpg": "/static/media/service.76e45be09e9d58eee455.jpg",
+    "static/media/community.png": "/static/media/community.5fbdbdbfd6578d5a3da8.png",
+    "index.html": "/index.html",
+    "main.d867d4ea.css.map": "/static/css/main.d867d4ea.css.map",
+    "main.2ddc3102.js.map": "/static/js/main.2ddc3102.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d867d4ea.css",
+    "static/js/main.2ddc3102.js"
+  ]
+}
